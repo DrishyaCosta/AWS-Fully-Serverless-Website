@@ -1,0 +1,1 @@
+aws-serverless-site/ ├── frontend/ # HTML, CSS, JS files go here │ ├── index.html │ ├── style.css │ └── app.js ├── lambda/ # Lambda function code │ └── index.js ├── infrastructure/ # SAM / CDK / Terraform config │ └── template.yaml ├── docs/ # Architecture diagram goes here │ └── architecture.png ← save your diagram here ├── README.md ├── .gitignore └── LICENSE
