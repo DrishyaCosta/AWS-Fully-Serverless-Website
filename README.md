@@ -36,4 +36,4 @@ Runs on AWS Free Tier — 1M Lambda requests, 5GB S3,
 
 ## 📄 License
 
-MIT — [yourname] · [Year]
+MIT — [Drishya Costa] · [2026]
